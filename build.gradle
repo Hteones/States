@@ -1,0 +1,5 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+// The `buildscript` block has been removed from this file.
+// Plugin resolution is now handled by the `pluginManagement` block
+// in your `settings.gradle` file, which is the modern and correct approach.
